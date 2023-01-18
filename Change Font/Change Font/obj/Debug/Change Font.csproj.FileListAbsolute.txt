@@ -1,0 +1,10 @@
+C:\Users\Mahan\source\repos\Change Font\Change Font\bin\Debug\Change Font.exe.config
+C:\Users\Mahan\source\repos\Change Font\Change Font\bin\Debug\Change Font.exe
+C:\Users\Mahan\source\repos\Change Font\Change Font\bin\Debug\Change Font.pdb
+C:\Users\Mahan\source\repos\Change Font\Change Font\obj\Debug\Change Font.csprojAssemblyReference.cache
+C:\Users\Mahan\source\repos\Change Font\Change Font\obj\Debug\Change_Font.Form1.resources
+C:\Users\Mahan\source\repos\Change Font\Change Font\obj\Debug\Change_Font.Properties.Resources.resources
+C:\Users\Mahan\source\repos\Change Font\Change Font\obj\Debug\Change Font.csproj.GenerateResource.cache
+C:\Users\Mahan\source\repos\Change Font\Change Font\obj\Debug\Change Font.csproj.CoreCompileInputs.cache
+C:\Users\Mahan\source\repos\Change Font\Change Font\obj\Debug\Change Font.exe
+C:\Users\Mahan\source\repos\Change Font\Change Font\obj\Debug\Change Font.pdb
